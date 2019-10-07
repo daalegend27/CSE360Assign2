@@ -1,3 +1,16 @@
+/**
+ * Class: CSE 360 ASU ID: 1212977790 Author: Kobe Goldman
+ * 
+ * (This program is a simple object oriented calculator with various 
+ *  methods for performing operations.)
+ *	
+ *	GitHub Repository Link: https://github.com/daalegend27/CSE360Assign2
+ * 
+ *
+ * @author (Kobe Goldman)
+ */
+
+
 package cse360assign2;
 
 public class AddingMachine 
@@ -11,7 +24,6 @@ public class AddingMachine
 	 * currently commented out
 	 * 
 	 */
-	
 	public static void main(String[]args)
 	{
 		AddingMachine mc = new AddingMachine();
