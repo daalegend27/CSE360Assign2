@@ -20,28 +20,6 @@ public class AddingMachine
 	String operations = "0";
 	
 	/**
-	 * Main Method to test if program works
-	 * currently commented out
-	 * 
-	 */
-	public static void main(String[]args)
-	{
-		AddingMachine mc = new AddingMachine();
-		int temp;
-		mc.add(14);
-		mc.subtract(2);
-		mc.subtract(2);
-		mc.subtract(2);
-		temp = mc.getTotal();
-		System.out.println(temp);
-		mc.subtract(5);
-		System.out.println(mc.getTotal());
-		mc.clear();
-		System.out.println(mc.getTotal());
-		
-	}
-	
-	/**
 	 * Method to 
 	 */
 	public AddingMachine () 
